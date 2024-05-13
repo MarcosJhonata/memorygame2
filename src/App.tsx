@@ -8,7 +8,7 @@ interface TCell {
 
 function App() {
 
-  const [grid, setGrid] = useState ([
+  const [grid,] = useState ([
     [0,3,1,5],
     [1,2,3,4],
     [2,0,4,5],
